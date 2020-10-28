@@ -348,3 +348,4 @@ changelog entry notes to the repository.
 ## License
 
 Licensed under GNU General Public License (GPL), version 3 or later.
+
